@@ -1,0 +1,26 @@
+CGPA__c,Department__c,Email__c,Phone__c,Roll_Number__c,Name,Year__c
+8.5,CSE,rahul.sharma@example.com,+91-9876543210,STU001,Rahul Sharma,III-Year
+5.2,CSE-AI,priya.singh@example.com,+91-8765432109,STU002,Priya Singh,II-Year
+7.8,CSE-AI&ML,amit.kumar@example.com,+91-7654321098,STU003,Amit Kumar,IV-Year
+4.9,CSE-DS,neha.verma@example.com,+91-9876543211,STU004,Neha Verma,I-Year
+9.1,ECE,vikas.patel@example.com,+91-8765432110,STU005,Vikas Patel,III-Year
+6.3,EEE,ananya.gupta@example.com,+91-7654321099,STU006,Ananya Gupta,II-Year
+5.7,MECH,rohit.jain@example.com,+91-9876543212,STU007,Rohit Jain,IV-Year
+8.2,CSE,sneha.reddy@example.com,+91-8765432111,STU008,Sneha Reddy,I-Year
+7.4,CSE-AI,karan.mehta@example.com,+91-7654321100,STU009,Karan Mehta,III-Year
+4.5,CSE-AI&ML,pooja.agarwal@example.com,+91-9876543213,STU010,Pooja Agarwal,II-Year
+9.0,CSE-DS,deepak.yadav@example.com,+91-8765432112,STU011,Deepak Yadav,IV-Year
+5.8,ECE,isha.chopra@example.com,+91-7654321101,STU012,Isha Chopra,I-Year
+6.7,EEE,manish.bose@example.com,+91-9876543214,STU013,Manish Bose,III-Year
+8.9,MECH,rina.das@example.com,+91-8765432113,STU014,Rina Das,II-Year
+4.2,CSE,suresh.khan@example.com,+91-7654321102,STU015,Suresh Khan,IV-Year
+7.1,CSE-AI,meera.rao@example.com,+91-9876543215,STU016,Meera Rao,I-Year
+5.4,CSE-AI&ML,arjun.seth@example.com,+91-8765432114,STU017,Arjun Seth,III-Year
+9.3,CSE-DS,nidhi.mishra@example.com,+91-7654321103,STU018,Nidhi Mishra,II-Year
+6.0,ECE,rajiv.pandey@example.com,+91-9876543216,STU019,Rajiv Pandey,IV-Year
+8.0,EEE,sonia.thakur@example.com,+91-8765432115,STU020,Sonia Thakur,I-Year
+7.5,MECH,vivek.sinha@example.com,+91-7654321104,STU021,Vivek Sinha,III-Year
+4.8,CSE,preeti.kapoor@example.com,+91-9876543217,STU022,Preeti Kapoor,II-Year
+9.2,CSE-AI,abhishek.bhatt@example.com,+91-8765432116,STU023,Abhishek Bhatt,IV-Year
+5.6,CSE-AI&ML,divya.nair@example.com,+91-7654321105,STU024,Divya Nair,I-Year
+8.4,CSE-DS,sanjay.malhotra@example.com,+91-9876543218,STU025,Sanjay Malhotra,III-Year
